@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\adrathor\\git\\java-berlin-clock\\build\\classes\\java\\main;C:\\Users\\adrathor\\git\\java-berlin-clock\\build\\resources\\main;C:\\Users\\adrathor\\.gradle\\caches\\modules-2\\files-2.1\\org.slf4j\\slf4j-api\\1.7.5\\6b262da268f8ad9eff941b25503a9198f0a0ac93\\slf4j-api-1.7.5.jar;C:\\Users\\adrathor\\.gradle\\caches\\modules-2\\files-2.1\\commons-lang\\commons-lang\\2.6\\ce1edb914c94ebc388f086c6827e8bdeec71ac2\\commons-lang-2.6.jar'
+-d 'C:\\Users\\adrathor\\git\\java-berlin-clock\\build\\docs\\javadoc'
+-doctitle 'java-berlin-clock 1.0-SNAPSHOT API'
+-quiet 
+-windowtitle 'java-berlin-clock 1.0-SNAPSHOT API'
+'C:\\Users\\adrathor\\git\\java-berlin-clock\\src\\main\\java\\com\\ubs\\opsit\\interviews\\BerlinClock.java'
+'C:\\Users\\adrathor\\git\\java-berlin-clock\\src\\main\\java\\com\\ubs\\opsit\\interviews\\TimeConverter.java'
